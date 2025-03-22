@@ -1,0 +1,35 @@
+body {
+    font-family: '等线',Times,serif;
+    background-color: #ffebe6;
+    padding: 20px;
+    text-align: center;
+       }
+
+
+h1 {
+    color: #c0392b;
+    text-align: center;
+        }
+
+
+.menu {
+    gap: 10px;
+    margin: 20px 0;
+                }
+
+
+button {
+    padding: 15px;
+    background-color: #e74c3c;
+    color: white;
+    border: none;
+    border-radius: 8px;
+        }
+
+
+address {
+    margin-top: 30em;
+    padding-top: 2em;
+    border-top: thin dotted
+    color: #c0392b;
+        }
